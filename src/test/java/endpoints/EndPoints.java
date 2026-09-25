@@ -1,6 +1,6 @@
-package constants;
+package endpoints;
 
-public class Endpoints {
+public class EndPoints {
 
     public static final String PRODUCTS="/products";
     public static final String USERS="/users";
